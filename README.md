@@ -1,2 +1,2 @@
 # github-practice
-A repo for practicing the basics of using git and GitHub
+This is my change to the bonillawafers readme file
